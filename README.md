@@ -1,6 +1,6 @@
 # Typeahead System
 
-- This repository contains documentation and architecture overview for a Typeahead Search System that I implemented during my Internship at Lagoon as a Software Engineer. 
+- This repository contains documentation and architecture overview for a Typeahead Search System that I implemented during my Internship at Lagoon as a SDE Intern. 
 
 - The actual implementation code has been omitted as it's company property, but this repo serves to demonstrate my understanding of the system architecture, design decisions, and implementation approach.
 
