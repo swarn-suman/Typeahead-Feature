@@ -41,7 +41,7 @@
 
 ## Problem Statement
 
-Recruiters on the Mercor team platform frequently perform similar searches for contractors, often repeating the same queries or making minor modifications to previous searches. Currently, there is no mechanism to leverage their search history, forcing recruiters to manually re-enter search terms each time. This leads to:
+Recruiters on the Lagoon platform frequently perform similar searches for hiring, often repeating the same queries or making minor modifications to previous searches. Currently, there is no mechanism to leverage their search history, forcing recruiters to manually re-enter search terms each time. This leads to:
 
 - Inefficient workflows and wasted time.
 - Inconsistent search parameters across similar searches.
