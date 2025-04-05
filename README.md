@@ -264,7 +264,7 @@ While it was out of scope for the initial implementation, the following enhancem
 
 ## Conclusion
 
-The Typeahead feature significantly improved the efficiency of recruiters using the Mercor team platform. By leveraging search query data and implementing a high-performance caching layer with Redis, we provided a seamless, Google/Amazon-like experience where previous searches appear as suggestions without requiring any explicit action from the user.
+The Typeahead feature significantly improved the efficiency of recruiters using the Lagoon team platform. By leveraging search query data and implementing a high-performance caching layer with Redis, we provided a seamless, Google/Amazon-like experience where previous searches appear as suggestions without requiring any explicit action from the user.
 The implementation focuses on:
 
 1. **Performance:** Fast responses through Redis.
